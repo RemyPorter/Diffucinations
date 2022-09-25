@@ -46,7 +46,7 @@ Ssendnik, or "kindness" backwards. Apparently Stable Diffusion is biased to thin
 ![ssendnik eats](imgs/ssendnik%20eats.png)
 
 ## Alternative Alphabets
-I'm going out on a limb, but I suspect most of Stable Diffusion's data is trained in English. But there are lots of other languages and alphabets. What happens when we use some of those?
+I'm going out on a limb, but I suspect most of Stable Diffusion's data is trained in English. But there are lots of other languages and alphabets. What happens when we use some of those? Even better, what happens when I'm just grabbing a handful of characters which spell out nonsense?
 
 ### Ʒ
 ![Ʒ](imgs/%C6%B7.png)
@@ -90,7 +90,33 @@ A Japanese character gets us a Shinto-esque object, buried in the dirt.
 ### ޓ
 ![ޓ](imgs/%DE%93.png)
 
-More bird motif, but this one drifts into Vaporwave collage. 
+More bird motif, but this one drifts into Vaporwave collage.
+
+### 〄
+![〄](imgs/〄.png)
+
+All the charm of an 1920s Halloween costume photo rendered as a Death Grips album cover. Horrifying and mystifying.
+
+### ቹᑅ
+![ቹᑅ](imgs/ቹᑅ.png)
+
+This is a lovely floral pattern that I'd wear as a shirt.
+
+### Ħ
+![Ħ](imgs/%C4%A6.png)
+
+A mysterious seaside city spills out of this prompt. It looks like ruins, which makes us wonder about who once lived there.
+
+### ቹ
+![ቹ](imgs/%E1%89%B9.png)
+
+A well hidden cat-squirrel taking a nap in an awkward position.
+
+### 𐘓𐛧𐛦
+![𐘓𐛧𐛦](imgs/%F0%90%98%93%F0%90%9B%A7%F0%90%9B%A6.png)
+
+I opted to try some Linear-A, since what better way to prompt an AI than in an alphabet no one understands? Somehow, this managed to spit out something that has a vibe of an ancient carving or ancient jewelry.
+
 
 ## More to come
 I'll update this with more of the unexpected or strange unicode strings. There's a lot of fun stuff, but this is a good starting point.
