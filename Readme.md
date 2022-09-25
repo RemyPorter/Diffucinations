@@ -55,14 +55,17 @@ Something about this feels cyberpunk and dystopian.
 
 ### Þ
 ![Þ](imgs/%C3%9E.png)
+
 A whirlpool in a forest? Moss around a sinkhole? I don't rightly know what this is.
 
 ### ʘ
 ![ʘ](imgs/%CA%98.png)
+
 And now we get into some odd creatures. A birdmouse with meat for a face?
 
 ### Θ
 ![Θ](imgs/%CE%98.png)
+
 And Θ keeps favoring birds, for some reason. This is jewelry.
 
 ### Ξ
@@ -72,10 +75,12 @@ This is one of my favorites. An odd manuscript, with drawings that imply somethi
 
 ### ΞΨ
 ![ΞΨ](imgs/%CE%9E%CE%A8.png)
+
 This hints at an album cover. It attempts to render some text, but not the text I fed it. Here I feel like we're getting into some real shapes of the trained network.
 
 ### Ϟ
 ![Ϟ](imgs/%CF%9E.png)
+
 A rather convincing ring, in macro.
 
 ### τ
@@ -85,6 +90,7 @@ The bird motif appears again, but now we have an alien language written out, in�
 
 ### Ϡ
 ![Ϡ](imgs/%CF%A0.png)
+
 A Japanese character gets us a Shinto-esque object, buried in the dirt. 
 
 ### ޓ
@@ -117,6 +123,65 @@ A well hidden cat-squirrel taking a nap in an awkward position.
 
 I opted to try some Linear-A, since what better way to prompt an AI than in an alphabet no one understands? Somehow, this managed to spit out something that has a vibe of an ancient carving or ancient jewelry.
 
+### ㉣
+![㉣](imgs/%E3%89%A3.png)
 
+A half-excavated sculpture in the dirt? 
+
+## Other Characters
+In addition to all of these, there's also just "play with different characters".
+
+### 𛰠𛰘‎ 
+![𛰠𛰘](imgs/%F0%9B%B0%A0%F0%9B%B0%98%E2%80%8E%20.png)
+
+This uses some symbols from the shorthand alphabet, but the result doesn't seem anything like that.
+
+### ℻∭
+![℻∭](imgs/%E2%84%BB%E2%88%AD.png)
+
+Cave art by way of Picasso? The shading and texturing is fascinating.
+
+<h3>╔═╗
+
+╚═╝</h3>
+<img src="imgs/╔═╗ ╚═╝.png" alt="╔═╗ ╚═╝">
+
+An ASCII art box yields this "cute" creature, with glowing red eyes against a darkening backdrop. Not nightmarish at all.
+
+### …
+![…](imgs/%E2%80%A6.png)
+
+Speaking of creepy, the ellipse yields this forbidden forest.
+
+### ɐ
+![ɐ](imgs/%C9%90.png)
+
+Another album cover, this time for the band AED. I don't know if this band exists, but they should.
+
+### ⍒⏁⏚⏚
+![⍒⏁⏚⏚](imgs/%E2%8D%92%E2%8F%81%E2%8F%9A%E2%8F%9A.png)
+
+Speaking of album covers, I have no idea what genre this is, but it clearly is one.
+
+### ✨
+![✨](imgs/%E2%9C%A8.png)
+
+Here we have a mysterious eldritch horror masquerading as a human woman.
+
+### ❣
+![❣](imgs/%E2%9D%A3.png)
+
+And another.
+
+### ⛄⛄⛄
+![⛄⛄⛄](imgs/%E2%9B%84%E2%9B%84%E2%9B%84.png)
+
+And since both of those had a winter vibe, here's a definitive winter vibe: a snowman, generated from snowman emoji. It's interesting that the house and ground are so realistic, but the snowman is so cartoon-y. And of course, a three-eyed snowman.
+
+## Other Weird Results
+### ludonarrative dissonance
+![ludonarrative dissonance](imgs/ludonarrative%20dissonance.png)
+
+A game board? Or a stained glass window? Or both? 
 ## More to come
 I'll update this with more of the unexpected or strange unicode strings. There's a lot of fun stuff, but this is a good starting point.
