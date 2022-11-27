@@ -178,6 +178,22 @@ And another.
 
 And since both of those had a winter vibe, here's a definitive winter vibe: a snowman, generated from snowman emoji. It's interesting that the house and ground are so realistic, but the snowman is so cartoon-y. And of course, a three-eyed snowman.
 
+### 𐄡𐄫𐄻
+![𐄡𐄫𐄻](imgs/𐄡𐄫𐄻.png)
+
+Aegean numerals yield this lovely abstract. I really like the texture of it. It feels very painterly.
+
+### ᚖᚙᚎ
+![ᚖᚙᚎ](imgs/ᚖᚙᚎ.png)
+
+Ogham gives this Dali-esque suggestion of horses in the snow. There's something offputting about this image, like I've stumbled into the wrong place in the forest and something bad might happen to me.
+
+
+### 𐭌𐭈𐭐
+![𐭌𐭈𐭐](imgs/𐭌𐭈𐭐.png)
+
+This is Inscriptional Parthian, and here we're confronted by a mysterious figure in a dark alley way of some ancient city. Much like the picture above, I feel like I'm someplace I shouldn't be.
+
 ## Other Weird Results
 ### ludonarrative dissonance
 ![ludonarrative dissonance](imgs/ludonarrative%20dissonance.png)
