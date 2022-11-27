@@ -118,10 +118,47 @@ A mysterious seaside city spills out of this prompt. It looks like ruins, which 
 
 A well hidden cat-squirrel taking a nap in an awkward position.
 
+## Linear-A
 ### 𐘓𐛧𐛦
 ![𐘓𐛧𐛦](imgs/%F0%90%98%93%F0%90%9B%A7%F0%90%9B%A6.png)
 
 I opted to try some Linear-A, since what better way to prompt an AI than in an alphabet no one understands? Somehow, this managed to spit out something that has a vibe of an ancient carving or ancient jewelry.
+
+### 𐘇𐙕𐘸𐘳𐘇
+![𐘇𐙕𐘸𐘳𐘇](imgs/𐘇𐙕𐘸𐘳𐘇.png)
+
+This in an actual Linear-A text I used as a prompt. I don't know what it means, and I doubt the AI does either. But I really like the pencil-drawing nature of this thing. It looks like a sketch of a floor tile, or perhaps a rendering of some ancient temple, from above.
+
+### 𐘱𐘤𐘡
+![𐘱𐘤𐘡](imgs/𐘱𐘤𐘡.png)
+
+Another sample of *actual* Linear-A, and I'm at a loss for what this truly represents. There are those hints of a mishmash of national flags, a vaguely person-shaped object in a purple covering. A hint of a window or door in the background. It's compelling nonsense.
+
+### 𐘸𐘦𐙁𐙯𐘅
+![𐘸𐘦𐙁𐙯𐘅](imgs/𐘸𐘦𐙁𐙯𐘅.png)
+
+More Linear-A gets us this luxurious dining room with mysterious and confusingly perspectived furniture. It would be difficult to eat one's supper here.
+
+### 𐚢𐘌𐘰<br>𐘾𐙂𐘗𐘃
+![𐚢𐘌𐘰<br>𐘾𐙂𐘗𐘃](imgs/𐚢𐘌𐘰𐘾𐙂𐘗𐘃.png)
+
+And this last sample of two lines from two different Linear-A tables yields something that evokes ships in the Mediterranean. 
+
+### 𐄡𐄫𐄻
+![𐄡𐄫𐄻](imgs/𐄡𐄫𐄻.png)
+
+Aegean numerals yield this lovely abstract. I really like the texture of it. It feels very painterly.
+
+### ᚖᚙᚎ
+![ᚖᚙᚎ](imgs/ᚖᚙᚎ.png)
+
+Ogham gives this Dali-esque suggestion of horses in the snow. There's something offputting about this image, like I've stumbled into the wrong place in the forest and something bad might happen to me.
+
+
+### 𐭌𐭈𐭐
+![𐭌𐭈𐭐](imgs/𐭌𐭈𐭐.png)
+
+This is Inscriptional Parthian, and here we're confronted by a mysterious figure in a dark alley way of some ancient city. Much like the picture above, I feel like I'm someplace I shouldn't be.
 
 ### ㉣
 ![㉣](imgs/%E3%89%A3.png)
@@ -177,22 +214,6 @@ And another.
 ![⛄⛄⛄](imgs/%E2%9B%84%E2%9B%84%E2%9B%84.png)
 
 And since both of those had a winter vibe, here's a definitive winter vibe: a snowman, generated from snowman emoji. It's interesting that the house and ground are so realistic, but the snowman is so cartoon-y. And of course, a three-eyed snowman.
-
-### 𐄡𐄫𐄻
-![𐄡𐄫𐄻](imgs/𐄡𐄫𐄻.png)
-
-Aegean numerals yield this lovely abstract. I really like the texture of it. It feels very painterly.
-
-### ᚖᚙᚎ
-![ᚖᚙᚎ](imgs/ᚖᚙᚎ.png)
-
-Ogham gives this Dali-esque suggestion of horses in the snow. There's something offputting about this image, like I've stumbled into the wrong place in the forest and something bad might happen to me.
-
-
-### 𐭌𐭈𐭐
-![𐭌𐭈𐭐](imgs/𐭌𐭈𐭐.png)
-
-This is Inscriptional Parthian, and here we're confronted by a mysterious figure in a dark alley way of some ancient city. Much like the picture above, I feel like I'm someplace I shouldn't be.
 
 ## Other Weird Results
 ### ludonarrative dissonance
